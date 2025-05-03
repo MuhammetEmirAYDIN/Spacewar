@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceWar.BasicEnemy" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAAABAIAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>BasicEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWar.Game">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAgABAAAAAIAAAAAIAAAChAEEGAAEBAAEAAAAQAAI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWar.StrongEnemy" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAggAAAIAAAgAAAAAAAAABAIAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>StrongEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWar.Spaceship">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACCiECAAICEBAgiAAAEIEQBAAAAEgAAAAAAgAAAAAA=</HashCode>
+      <FileName>Spaceship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWar.FastEnemy" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAIAAIAAAgAAAAAACAABAIAAAAQAAAAAAAAEAAA=</HashCode>
+      <FileName>FastEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWar.Enemy">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAEAgAgAAAAEAAAAIAAAAAAAAAAwAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWar.CollisionDetector" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>CollisionDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWar.Bullet">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAIGEAAAgECAIAAABAAAAAABAAAAAAABAAAA=</HashCode>
+      <FileName>Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWar.BossEnemy" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIgCAgAQAAAAAAABAIAAAAEAIAIAAAAAAAQ=</HashCode>
+      <FileName>BossEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

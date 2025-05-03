@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S69CPOwySuM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rog\\source\\repos\\SpaceWar\\SpaceWar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rog\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\Rog\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
