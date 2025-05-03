@@ -41,7 +41,7 @@ Smooth and responsive controls, allowing the player to move and shoot with ease.
 ------
 
 ## 🎮 Gameplay Instructions
-    **Move**: Use the arrow keys or WASD to move your spaceship around.
+    **Move**: Use the WASD keys to move your spaceship around.
 
     **Shoot**: Press or hold the left mouse key to shoot bullets at enemies.
 
